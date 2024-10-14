@@ -33,7 +33,6 @@ I have hands-on experience as an AI Developer intern and have been an active mem
   <a href="https://groq.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPoEJwjdUUVk2yuU6xwxUi2KIctvZAWY37Tg&s" alt="groq" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://vanguard.com/" target="_blank"> <img src="https://cdn-1.webcatalog.io/catalog/vanguard/vanguard-icon-filled-256.png?v=1725195998490" alt="vanguard" width="40" height="40"/> </a><a/>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png" alt="stm32" width="40" height="40"/> </a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"> <img src="https://wiki.52pi.com/images/5/53/Esp32.png" alt="esp32" width="35" height="40"/> </a>
