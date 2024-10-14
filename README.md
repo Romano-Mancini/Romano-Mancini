@@ -53,6 +53,8 @@ Here are some of the repositories I have worked on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sampli1&repo=BEST_Hackathon_2024&theme=dark)](https://github.com/Sampli1/BEST_Hackathon_2024)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romano-Mancini&layout=compact&theme=radical)\
+\
+\
 ![Your Contribution Graph](https://github-readme-stats.vercel.app/api?username=Romano-Mancini&show_icons=true&theme=radical)
 
 ## 💬 Contacts
