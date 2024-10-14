@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub profile!
+# 👋 Welcome!
 
 My name is Romano Mancini, and I am currently an undergraduate student in Computer Engineering at the Polytechnic of Turin, specializing in AI development and software engineering. 
 
