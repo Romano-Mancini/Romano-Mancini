@@ -45,7 +45,7 @@ I have hands-on experience as an AI Developer intern and have been an active mem
 
 Here are some of the repositories I have worked on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FruttoCheap&repo=Chatbot&theme=dark)](https://github.com/Romano-Mancini/Learning_Arduino)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FruttoCheap&repo=Chatbot&theme=dark)](https://github.com/FruttoCheap/Chatbot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_Arduino&theme=dark)](https://github.com/Romano-Mancini/Learning_Arduino)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_Linux-Bash&theme=dark)](https://github.com/Romano-Mancini/Learning_Linux-Bash)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_AssemblyMIPS&theme=dark)](https://github.com/Romano-Mancini/Learning_AssemblyMIPS)
