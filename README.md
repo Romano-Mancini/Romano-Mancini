@@ -55,7 +55,7 @@ Here are some of the repositories I have worked on:
 
 ## 📈 Stats
 <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romano-Mancini&layout=compact&theme=radical" style="height: 200px; margin-right: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romano-Mancini&layout=compact&theme=radical" style="height: 200px; margin-right: 100px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=Romano-Mancini&show_icons=true&theme=radical" style="height: 200px;" />
 </div>
 
