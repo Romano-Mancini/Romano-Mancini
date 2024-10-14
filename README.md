@@ -4,6 +4,18 @@ My name is Romano Mancini, and I am currently an undergraduate student in Comput
 
 I have hands-on experience as an AI Developer intern and have been an active member of the Icarus PoliTO student team, where I contributed as a firmware developer using Arduino, STM32, and ESP32 boards. 
 
+## 📚 My Repositories
+
+Here are some of the repositories I have worked on:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FruttoCheap&repo=Chatbot&theme=dark)](https://github.com/FruttoCheap/Chatbot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_Arduino&theme=dark)](https://github.com/Romano-Mancini/Learning_Arduino)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_Linux-Bash&theme=dark)](https://github.com/Romano-Mancini/Learning_Linux-Bash)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_AssemblyMIPS&theme=dark)](https://github.com/Romano-Mancini/Learning_AssemblyMIPS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=ESP32_IoT_Projects&theme=dark)](https://github.com/Romano-Mancini/ESP32_IoT_Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sampli1&repo=BEST_Hackathon_2024&theme=dark)](https://github.com/Sampli1/BEST_Hackathon_2024)
+
+
 ## 🚀 Tech Stack
 
 ### 📚 Languages
@@ -40,18 +52,7 @@ I have hands-on experience as an AI Developer intern and have been an active mem
   <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="clion" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="40" height="40"/> </a>
   <a href="https://atom.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="40" height="40"/> </a>
-
-## 📚 My Repositories
-
-Here are some of the repositories I have worked on:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FruttoCheap&repo=Chatbot&theme=dark)](https://github.com/FruttoCheap/Chatbot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_Arduino&theme=dark)](https://github.com/Romano-Mancini/Learning_Arduino)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_Linux-Bash&theme=dark)](https://github.com/Romano-Mancini/Learning_Linux-Bash)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_AssemblyMIPS&theme=dark)](https://github.com/Romano-Mancini/Learning_AssemblyMIPS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=ESP32_IoT_Projects&theme=dark)](https://github.com/Romano-Mancini/ESP32_IoT_Projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sampli1&repo=BEST_Hackathon_2024&theme=dark)](https://github.com/Sampli1/BEST_Hackathon_2024)
-
+  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romano-Mancini&layout=compact&theme=radical)\
 \
 ![Your Contribution Graph](https://github-readme-stats.vercel.app/api?username=Romano-Mancini&show_icons=true&theme=radical)
