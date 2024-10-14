@@ -9,7 +9,7 @@ I have hands-on experience as an AI Developer intern and have been an active mem
 ### 📚 Languages
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   </a>
   <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="35" height="40"/> </a>
+  <a href="https://it.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="35" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" alt="mysql" width="32" height="40"/>     </a>
   <a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
