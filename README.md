@@ -52,12 +52,7 @@ Here are some of the repositories I have worked on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=ESP32_IoT_Projects&theme=dark)](https://github.com/Romano-Mancini/ESP32_IoT_Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sampli1&repo=BEST_Hackathon_2024&theme=dark)](https://github.com/Sampli1/BEST_Hackathon_2024)
 
-## 📊 Most Used Languages
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romano-Mancini&layout=compact&theme=radical)
-
-## 📊 Contribution Graph
-
 ![Your Contribution Graph](https://github-readme-stats.vercel.app/api?username=Romano-Mancini&show_icons=true&theme=radical)
 
 ## 💬 Contacts
