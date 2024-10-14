@@ -54,9 +54,10 @@ Here are some of the repositories I have worked on:
   <a href="https://atom.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="40" height="40"/> </a>
 
 ## 📈 Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romano-Mancini&layout=compact&theme=radical)\
-\
-![Your Contribution Graph](https://github-readme-stats.vercel.app/api?username=Romano-Mancini&show_icons=true&theme=radical)
+<div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romano-Mancini&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Romano-Mancini&show_icons=true&theme=radical" />
+</div>
 
 ## 💬 Contacts
 <a href="https://www.instagram.com/romanomancini._" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a>
