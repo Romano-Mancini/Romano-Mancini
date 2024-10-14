@@ -54,7 +54,6 @@ Here are some of the repositories I have worked on:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romano-Mancini&layout=compact&theme=radical)\
 \
-\
 ![Your Contribution Graph](https://github-readme-stats.vercel.app/api?username=Romano-Mancini&show_icons=true&theme=radical)
 
 ## 💬 Contacts
