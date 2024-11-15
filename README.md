@@ -1,8 +1,8 @@
-# 👋 Welcome!
+# 👋 Hello!
 
 My name is Romano Mancini, and I am currently an undergraduate student in Computer Engineering at the Polytechnic of Turin, specializing in AI development and software engineering. 
 
-I have hands-on experience as an AI Developer intern and have been an active member of the Icarus PoliTO student team, where I contributed as a firmware developer using Arduino, STM32, and ESP32 boards. 
+I have industry experience as an AI Developer intern and have been an active member of the Icarus PoliTO student team, where I contributed as a firmware developer using Arduino, STM32, and ESP32 boards. 
 
 ## 📚 My Repositories
 
