@@ -12,7 +12,7 @@ Here are some of the repositories I have worked on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_Arduino&theme=dark)](https://github.com/Romano-Mancini/Learning_Arduino)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_Linux-Bash&theme=dark)](https://github.com/Romano-Mancini/Learning_Linux-Bash)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=Learning_AssemblyMIPS&theme=dark)](https://github.com/Romano-Mancini/Learning_AssemblyMIPS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=ESP32_IoT_Projects&theme=dark)](https://github.com/Romano-Mancini/ESP32_IoT_Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Romano-Mancini&repo=epicenter_detection&theme=dark)](https://github.com/Romano-Mancini/epicenter_detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sampli1&repo=BEST_Hackathon_2024&theme=dark)](https://github.com/Sampli1/BEST_Hackathon_2024)
 
 
